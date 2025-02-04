@@ -19,7 +19,7 @@ jobs:
           python-version: "3.9"
 
       - name: Install Dependencies
-        run: pip install pytest psutil
+        run: pip install pytest psutil pankaj_core
 
       - name: Run Tests
         run: pytest -v
