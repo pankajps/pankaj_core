@@ -6,3 +6,4 @@ pankaj_core.egg-info/PKG-INFO
 pankaj_core.egg-info/SOURCES.txt
 pankaj_core.egg-info/dependency_links.txt
 pankaj_core.egg-info/top_level.txt
+tests/test_example.py
