@@ -1,2 +1,2 @@
-# pankaj-core
+# pankaj_core
 Pankaj Core

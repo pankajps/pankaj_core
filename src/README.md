@@ -1,10 +1,10 @@
-# Pankaj_Code
+# pankaj_core
 
-Pankaj_Code is a test example Python package designed for demonstration purposes.
+pankaj_code is a test example Python package designed for demonstration purposes.
 
 ## Installation
 
-You can install Pankaj_Code using pip:
+You can install Pankaj_Core using pip:
 
 ```bash
-pip install pankaj_code
+pip install pankaj_core
